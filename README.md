@@ -4,7 +4,5 @@
     alt="Me sitting at a round table with a Commodore 64, hands on the keyboard, looking at the screen"
     width="400"
   />
-  <figcaption>Me at work (home office).</figcaption>
+  <figcaption>Me at work (home office, 1985)</figcaption>
 </figure>
-<a rel="me" href="https://chaos.social/@claus"></a>
-<a rel="me" href="https://mastodon.com.br/@claus"></a>
