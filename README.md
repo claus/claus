@@ -6,3 +6,5 @@
   />
   <figcaption>Me at work (home office).</figcaption>
 </figure>
+<a rel="me" href="https://chaos.social/@claus"></a>
+<a rel="me" href="https://mastodon.com.br/@claus"></a>
